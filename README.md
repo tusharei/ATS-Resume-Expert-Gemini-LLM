@@ -1,4 +1,4 @@
-# Resume Expert: Gemini LLM 
+# ATS Resume Expert: Gemini LLM 
 
 ## Project Overview
 
